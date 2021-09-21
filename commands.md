@@ -7,7 +7,7 @@
 ```django-admin startproject <filename>```. >>a file is created at that directory which contains _init_.py,settings.py,urls.py,wsgi.py(all in <filename>) and manage.py <br />
 
 now cd to <filename>and type in command line ↣ ```django manage.py runserver```  >the server with some ip address started. just open the website <br />
-> if the website shows = '**The install worked successfully! Congratulations!**' <br />
+> if the website shows = '**The install worked successfully! Congratulations!**' then installation is done.<br />
 
 if you face any problem in this you may go through this website ⇉ [django_help](https://pencer.io/ctf/ctf-thm-django/) <br />
   
